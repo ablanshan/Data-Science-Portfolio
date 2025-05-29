@@ -15,6 +15,7 @@
 - Handled key management by issuing and loaning keys to provide security and accessibility
 - Maintained a clean and organized service center to create an efficient and productive work environment
 - Communicated with coworkers to ensure stable daily operations with resident, package, and key concerns
+  
 ### Etsy Shop, East Lansing, MI June 2023 – Present
 *Business owner/Jewelry maker*
 - Handcrafted and designed quality products to support originality and to establish consistent work ethics
@@ -22,6 +23,7 @@
 - Packaged and shipped out orders in a fast and timely manner to instill time management skills
 - Greeted customers when asked questions or when commissions were requested to establish well-rounded communication skills
 - Marketed products through social media to increase publicity and to learn about trends within the niche
+  
 ### Various Local Families, Richmond, TX May 2019 – August 2022
 *Babysitter*
 - Partnered with children to help complete homework assignments and projects to support learning initiatives
