@@ -1,4 +1,4 @@
-# Ashlynn Blanshan's Data Science
+# Ashlynn Blanshan's Data Science Portfolio
 
 ## Education
 ### Michigan State University, College of Natural Science, East Lansing, MI
