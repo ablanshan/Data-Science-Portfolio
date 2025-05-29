@@ -1,5 +1,5 @@
 # Ashlynn Blanshan's Data Science
-`#000000`
+
 ## Education
 ### Michigan State University, College of Natural Science, East Lansing, MI
 - Bachelor of Science, Data Science May 2026
