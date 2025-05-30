@@ -31,7 +31,7 @@
 - Encouraged children to do their chores to establish responsibility and organizational skills
 
 ## Projects
-### Breast Cancer Detection Model November – December 2024
+### [Breast Cancer Detection Model November](https://github.com/ablanshan/Breast_Cancer_Project.git) – December 2024
 - Cleaned and separated breast cancer data, splitting it to test and train variables for machine learning analysis
 - Developed a logistic regression-based machine learning model accomplishing a 95% accuracy in determining whether a tumor is benign or malignant
 - Created a confusion matrix to identify model discrepancies and improve interpretability
